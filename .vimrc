@@ -86,6 +86,8 @@ let mapleader = ","
 map <leader>n :NERDTreeToggle<CR>
 map <leader>f :NERDTreeFind<CR>
 
+map <leader>o :FufFile<CR>
+
 " make split navigation a bit cleaner
 map <leader>" :split<CR>
 map <leader>% :vsplit<CR>
